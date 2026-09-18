@@ -1,0 +1,9 @@
+# Compiled Java files
+out/
+
+# IDE files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
